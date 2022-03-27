@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440015152484",
+    "project_id": "fir-topics-c11bd",
+    "storage_bucket": "fir-topics-c11bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440015152484:android:96234b7bdbc36ff0c84671",
+        "android_client_info": {
+          "package_name": "com.example.firebasetopics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440015152484-2m6rna3pp6ladmnt8tf8j17vlvthatim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5eGek9J28kFD4yQ_7MazjQVgPA-aFuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440015152484-2m6rna3pp6ladmnt8tf8j17vlvthatim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
